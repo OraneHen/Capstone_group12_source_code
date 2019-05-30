@@ -1,0 +1,10 @@
+# ----------------------
+# Flask
+# ----------------------
+flask
+flask-pymongo
+dnspython
+# ----------------------
+# Production Server
+# ----------------------
+gunicorn
